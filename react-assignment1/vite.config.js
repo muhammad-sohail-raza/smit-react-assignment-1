@@ -4,5 +4,5 @@ import { defineConfig } from 'vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/smit-react-assignment-1/react-assignment1/',
+  base: '/smit-react-assignment-1/',
 })
