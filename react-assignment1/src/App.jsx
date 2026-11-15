@@ -1,4 +1,3 @@
-import './App.css'
 
 function App() {
   return (
@@ -25,7 +24,7 @@ function App() {
     <h2>Discover More</h2>
     
     
-    <img src="./src/assets/reactimg1.jpg" width="450px" alt="Ntatural Wanders"></img>
+    <img src="./src/assets/reactimg1.jpg" width="450px" alt="Ntatural Wanders"/>
     <p>The Majestic Victoria Falls</p>
     
     <a href="https://www.freepik.com/free-photos-vectors/natural-wonders-of-the-world" target="_blank">Explore more nature wonders.</a>
